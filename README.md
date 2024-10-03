@@ -26,3 +26,7 @@ Este projeto é uma aplicação web desenvolvida com Flask que analisa as notas 
 
 ## Estrutura do Projeto
 
+. ├── static │ └── graphs │ ├── box_plot.png │ ├── histogram.png │ ├── scatter_plot.png │ ├── line_plot.png │ ├── bar_plot.png │ ├── heatmap.png │ └── pie_chart.png ├── templates │ └── index.html ├── app.py └── requirements.txt
+
+
+
